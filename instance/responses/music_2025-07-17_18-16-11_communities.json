@@ -1,0 +1,26 @@
+[
+  {
+    "platform": "Reddit",
+    "name": "Reddit: music",
+    "url": "https://www.reddit.com/search/?q=music+community",
+    "description": "Search results for community"
+  },
+  {
+    "platform": "Reddit",
+    "name": "Reddit: rock",
+    "url": "https://www.reddit.com/search/?q=rock+community",
+    "description": "Search results for community"
+  },
+  {
+    "platform": "Reddit",
+    "name": "Reddit: kanye",
+    "url": "https://www.reddit.com/search/?q=kanye+community",
+    "description": "Search results for community"
+  },
+  {
+    "platform": "Reddit",
+    "name": "Reddit: power",
+    "url": "https://www.reddit.com/search/?q=power+community",
+    "description": "Search results for community"
+  }
+]

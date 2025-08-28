@@ -1,0 +1,3 @@
+domain: games
+type: action
+game: ghost of tsushima

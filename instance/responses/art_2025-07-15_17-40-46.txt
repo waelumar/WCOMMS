@@ -1,0 +1,3 @@
+domain: art
+Art Type: comic
+Style: sui ishida

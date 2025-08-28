@@ -1,0 +1,4 @@
+domain: music
+title: classics
+artist: kanye
+album: power

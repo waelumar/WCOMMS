@@ -1,0 +1,4 @@
+domain: music
+title: rock
+artist: kanye
+album: power
